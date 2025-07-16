@@ -67,7 +67,7 @@ This website displays your personal profile, skills, and projects using static H
 
 ---
 
-### 💡 Example IAM Policy for Limited S3 + CloudFront
+### 💡IAM Policy for Limited S3 + CloudFront
 
 ```json
 {
